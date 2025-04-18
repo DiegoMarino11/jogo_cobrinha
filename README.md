@@ -7,19 +7,16 @@ Pip (gerenciador de pacotes do Python)
 Passo a Passo
 Clone o repositório ou baixe o arquivo jogo_cobrinha.py
 
-sh
-Copy
+
 git clone https://github.com/seu-usuario/jogo-da-cobrinha.git
 cd jogo-da-cobrinha
 Instale o Pygame
 
-sh
-Copy
+
 pip install pygame
 Execute o jogo
 
-sh
-Copy
+
 python jogo_cobrinha.py
 🎮 Como Jogar
 Tecla	Ação
@@ -60,7 +57,6 @@ Dica: Quer adicionar sons, níveis ou menu inicial? Veja aqui como melhorar o jo
 
 📌 Como executar novamente?
 
-sh
-Copy
 python jogo_cobrinha.py
+
 🎯 Desafio: Consegue bater 50 pontos? 😉
